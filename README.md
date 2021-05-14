@@ -1,6 +1,6 @@
 # InvoiceInternational
 Examen Final - Análisis de Sistemas II
-## TECNOLOGÍA
+# TECNOLOGÍA
 >ASP.NET CORE
 ```
 El backend del proyecto está desarrollado en ASP.NET Core, el cual es un framework de
@@ -15,7 +15,7 @@ ASP.NET Core se integra perfectamente con bibliotecas y marcos populares del lad
 que incluyen Blazor, Angular, React y Bootstrap.
 ```
 
-## RAMAS
+# RAMAS
 ```
 1. master: En la rama máster se encuentran las releases estables de nuestro software. Esta es la rama que un usuario típico se descargará para usar nuestro software, por lo que todo lo que hay en esta rama debería ser funcional. Sin embargo, puede que las últimas mejoras introducidas en el software no estén disponibles todavía en esta rama
 2. develop: En esta rama surge de la última release de master. En ella se van integrando todas las nuevas características hasta la siguiente release.
